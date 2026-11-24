@@ -1,3 +1,4 @@
+// The red dot was never caught, and the void has not replied yet.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const ENTRY =
